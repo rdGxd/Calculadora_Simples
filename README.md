@@ -1,2 +1,3 @@
-# Calculadora_Simples
+# Calculadora Simples
  
+Praticando factory Functions
